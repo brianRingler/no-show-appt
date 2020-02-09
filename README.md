@@ -13,7 +13,7 @@ The scope of this project is to explore a dataset, from Kaggle, called No-Show A
 
 Brian k Ringler
 
-http://pkmital.com
+ringler.brian.8286@gmail.com
 
 # License
 
